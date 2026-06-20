@@ -8,3 +8,4 @@
 - Registry: the warehouse images are pulled from, like Docker Hub.
 - Daemon: the Docker engine running in the background.
 - vole: a small rat (test word)
+chmod: term need to be known
